@@ -3,7 +3,7 @@
 # .8 = light_gray
 text.color: .15
 axes.labelcolor: .15
-legend.frameon: False
+legend.frameon: True
 legend.numpoints: 1
 legend.scatterpoints: 1
 xtick.direction: out
